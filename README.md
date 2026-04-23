@@ -110,12 +110,6 @@ pip install numpy
 
 ---
 
-## 📄 Licencia
-
-MIT License
-
----
-
 ## 🚀 Objetivo
 
 Dominar NumPy como base para:
